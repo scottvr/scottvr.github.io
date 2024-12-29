@@ -8,6 +8,12 @@
 
 The graves containing these coffins are notable for their rich array of offerings sourced from Egypt, Mycenae, Phoenicia, Cyprus, and Canaan. Initially reserved for high-ranking Egyptian officials, these coffins later became a hallmark of Canaanite and Philistine burial practices.
 
+<figure>
+  <img src="https://github.com/scottvr/scottvr.github.io/blob/11c3fc531c482e455c60cffdfe28ab07cc9a0cc9/images/arthropod-coffins1.png" alt="three arthropod ceramic coffins on display in a museum of natural history in Texas, USA, as part of a touring exhibit">
+  <figcaption>Arthropod ceramic coffins from 1200 BCE  on display in a Texas Natural History museum</figcaption>
+</figure>
+
+
 ---
 
 ### History and Development
