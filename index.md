@@ -4,9 +4,11 @@ list_title: Read Our Latest Posts
 title: ''
 ---
 
-# Github Pages Demo Blog
-
-Welcome to this demo blog!
-
-This website intends to show you how to easily build and
-deploy a portfolio with a blog using _GitHub Pages_ and _Jekyll_.
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
