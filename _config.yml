@@ -1,3 +1,19 @@
+title: "My Blogs Name"
+author: "Default Author Name"
+description: "might be where I consolidate posts from past and future from my personal sites."
+email: "scottvr at paperclipmaximizer"
+#twitter_username: "twitteruser"
+github_username: "scottvr"
+linkedin_username: "scottvr"
+#facebook_username: username
+#flickr_username: username
+#instagram_username: username
+#pinterest_username: username
+#youtube_username: username
+#googleplus_username: +username
+
+##
+
 remote_theme: pages-themes/tactile@v0.2.0
 
 
