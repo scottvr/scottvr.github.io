@@ -3,7 +3,7 @@ title: How to bookmark all tabs in Chrome for iOS (or "The Unreasonable Stabilit
 date: 2023-03-11
 layout: none
 ---
-
+  <head>
   <meta charset="UTF-8">
   <meta name="description" content="Finally a guide showing you a better and easier way to bookmark all tabs in Chrome and iOS, none of that syncing to a PC opening them all there and then bookmarking them from the PC. That's silly.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
