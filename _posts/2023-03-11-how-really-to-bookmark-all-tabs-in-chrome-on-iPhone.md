@@ -1,6 +1,6 @@
-----
+---
 title: How to bookmark all tabs in Chrome for iOS (or "The Unreasonable Stability of Chrome on iOS")
-----
+---
 
 
 <html>
