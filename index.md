@@ -1,7 +1,7 @@
 ---
 layout: home
 #list_title: Read Our Latest Posts
-title: ''
+title: 'reverse temporal traversal'
 ---
 
 {% for tag in site.tags %}
