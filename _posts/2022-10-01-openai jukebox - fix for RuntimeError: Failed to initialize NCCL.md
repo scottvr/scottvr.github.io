@@ -1,8 +1,8 @@
-----
+---
 title: openai jukebox - fix for RuntimeError: Failed to initialize NCCL
 date: 2022-10-01
-layout: post
-----
+lhayout: post
+---
 
 
 ### status
