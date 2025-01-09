@@ -60,14 +60,14 @@ Even if that approach <i>was</i> the only way... As has been discussed up to now
       <h2 class="text-warning text-monospace">How many tabs is <span class="text-secondary">:-)</span> anyway?</h2>
 <center>
         <br>
-        <img style="vertical-align: top;" src="https://killsignal.net/images/IMG_7889b.jpg"></img>
+        <img style="vertical-align: top;" src="https://killsignal.net/mobile_chrome_bookmark-all/images/IMG_7889b.jpg"></img>
 	<br><br>
         <p class="text-secondary text-monospace">That many. That's how many browser tabs I have open on my phone presently. I've been asked, and now I can answer.</p>
 </center>
 
   </div>
   <div class="column alright">
-     <img src="https://killsignal.net/images/IMG_7890.jpg"></img>
+     <img src="https://killsignal.net/mobile_chrome_bookmark-all/images/IMG_7890.jpg"></img>
   </div> 
 </div>
 
@@ -83,7 +83,7 @@ Even if that approach <i>was</i> the only way... As has been discussed up to now
 	<br>
 <div class="row">
 	<div class="instruct">
-     <img src="https://killsignal.net/images/IMG_7896.jpg" class="covert">
+     <img src="https://killsignal.net/mobile_chrome_bookmark-all/images/IMG_7896.jpg" class="covert">
 
      <div class="instruct-text h2 alright">
 	With Chrome loaded and in the foreground, press the aforementioned square at the bottom of the screen that is either displaying a two-digit integer, or shows a sideways ASCII smiley face emoticon, bringing you to the tab screen shown here. 
@@ -97,7 +97,7 @@ Even if that approach <i>was</i> the only way... As has been discussed up to now
 <br>
 <div class="row">
 	<div class="instruct">
-     <img src="https://killsignal.net/images/IMG_7897.jpg" class="covert">
+     <img src="https://killsignal.net/mobile_chrome_bookmark-all/images/IMG_7897.jpg" class="covert">
 	<div class="instruct-text h2 alright">
 The "Select Tabs" and "Close All Tabs" menu will appear just above where you tapped, as shown in this image.
 	</div>
@@ -109,7 +109,7 @@ The "Select Tabs" and "Close All Tabs" menu will appear just above where you tap
 <br>
 <div class="row">
 	<div class="instruct">
-     <img src="https://killsignal.net/images/IMG_7898.jpg"></img>
+     <img src="https://killsignal.net/mobile_chrome_bookmark-all/images/IMG_7898.jpg"></img>
 	<div class="instruct-text h2 alright">
 		Tapping on "Select Tabs" will display the "Select All", "Select Tabs", and "Done" options at the top of the screen, and little hollow blue circles will appear on the tab thumbnails, allowing them to be toggled as selected or not. <br><br><br>We have far too many tabs to be tapping in circles to select them.
 		<br><br><br>
@@ -124,7 +124,7 @@ The "Select Tabs" and "Close All Tabs" menu will appear just above where you tap
 <div class="row">
 	<div class="instruct">
 
-     <img src="https://killsignal.net/images/IMG_7899.jpg" class="covert">
+     <img src="https://killsignal.net/mobile_chrome_bookmark-all/images/IMG_7899.jpg" class="covert">
 	<div class="instruct-text h2 alright">
 		Now all of the hollow circles in the top right of every tab thumbnail have become solid blue circles with white check marks on them. At the top of the screen, flanked on either side by "Deselect All"" and  "Done", you will see a number. In this case we see that 5,005 tabs are selected (amounting to all tabs currently open.) <h3><i>Et Voila!</i></h3>
 	</div>
@@ -136,7 +136,7 @@ The "Select Tabs" and "Close All Tabs" menu will appear just above where you tap
 <br>
 <div class="row">
 	<div class="instruct">
-		<img src="https://killsignal.net/images/IMG_7900.jpg" class="covert">
+		<img src="https://killsignal.net/mobile_chrome_bookmark-all/images/IMG_7900.jpg" class="covert">
 	<div class="instruct-text h2 alright">
 		And for the Grand Finale, select "Add to Bookmarks". <br><br>You have just accomplished the equivalent of pressing shift-control-d (bookmark all tabs on your desktop system running Chrome), but minus the hanging and crashing pains that are normally a risk, and as a bonus found out how many tabs you really have open. <br><br><br><h4>(Or, alternatively, you have accomplished your goal of learning the number of tabs open and, in the process, how to bookmark all of them. I don't remember  which was my goal and which was a side effect now. Nevertheless, you can now start closing those years-old stale tabs without any of the painful anxiety and fomo that would normally accompany the task.</h4>  <h3><b>Q.E.D.</b></h  3>
 	</div>
