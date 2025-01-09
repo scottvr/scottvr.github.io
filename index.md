@@ -1,6 +1,6 @@
 ---
 layout: home
-list_title: reverse temporal traversal
+list_title: reverse log traversal
 title: ''
 ---
 
