@@ -1,5 +1,5 @@
 ---
-title: openai jukebox - fix for RuntimeError: Failed to initialize NCCL
+title: openai jukebox - fix for RuntimeError\: Failed to initialize NCCL
 date: 2022-10-01
 lhayout: post
 ---
