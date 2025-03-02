@@ -1,4 +1,4 @@
-xx---
+---
 title: "Announcing ASCop!"
 date: 2025-02-28
 ---
