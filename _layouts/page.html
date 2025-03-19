@@ -1,8 +1,31 @@
----
-layout: default
----
-<div class="wiki">
-{% for wiki in site.wikis %}
-  <a href="{{ wiki.url }}"><span>{{ wiki.title }}</span>
-{% endfor %}
-</div>
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <div id="container">
+      <div class="inner">
+
+        <header>
+          <h2>{{ page.title | default: site.title | default: site.github.repository_name }}</h2>
+          <h3>{{ page.description | default: site.description | default: site.github.project_tagline }}</h3>
+        </header>
+        <section>
+	{% assign show_random_link = page.show_random_link | default: site.show_random_link | default: false %}
+	{% if show_random_link %}
+		  {% assign random_link = site.pages | random %}
+	      <section id="random_link" class="clearfix">
+			<a href="{{ random_link.url }}"><span>random link</span></a>
+		{% endif %}
+        </section>
+  </body>
+</html>
