@@ -9,9 +9,8 @@ layout: default
 
     <h2 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h2>
     // -->
-  <!-- //
+
     <p class="post-meta">
-    // -->
     <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.tactile.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
@@ -24,11 +23,10 @@ layout: default
       </header>
   // -->
 
-<P>
   <div class="share-links">
     {% include sharelinks.html %}
   </div>
-</P>
+</p>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
