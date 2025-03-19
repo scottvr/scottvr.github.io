@@ -1,0 +1,18 @@
+<html>
+  <head>
+    {% include wikihead.html %}
+  </head>
+  <body>
+    <div id="main">
+
+      <div id="content">{{ content | inject_anchors }}</div>
+    </div>  
+    <div id="menu">
+      {%- include wikilogo.html -%}
+      {%- assign menu = page.menu | default: layout.menu -%}
+      {%- for item in menu -%}
+      {%- include {{item}}.html -%}
+      {%- endfor -%}
+    </div>
+  </body>
+</html>
