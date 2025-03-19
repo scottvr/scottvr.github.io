@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+b<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset='utf-8'>
@@ -25,7 +25,8 @@
 
         <section id="random_link" class="clearfix">
 		{% if site.show_random_link %}
-			<a href="{{ random_links | random }}"><span>random linkh</span>
+		  {% assign random_link = site.pages | random %}
+			<a href="{{ random_link | default: bleh }}"><span>random linkh</span>
 		{% endif %}
 	</section>
 	<section id="downloads" class="clearfix">
