@@ -28,7 +28,15 @@
 	      <section id="random_link" class="clearfix">
 			<a href="{{ random_link.url }}"><span>random link</span></a>
 		{% endif %}
-	</section>
+	      </section>
+	      <section>
+	{% for w in site.wikis %}
+		      1 {{ w.title }}
+		      2 {{ w }}
+		      3 {{ w.url }}
+		      {% endfor %}
+		      
+	      </section>
 	<section id="downloads" class="clearfix">
           {% if site.show_downloads %}
           <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
