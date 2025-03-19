@@ -2,6 +2,7 @@
 title: "thoughts on thoughts"
 date: 2025-03-15
 layout: post
+description: "I think a thing or two about a thing or two."
 ---
 
 I apologize for that embarrassingly try-hard "deep" sounding title, but that's just what this is and dont mean it to sound as much like an attempt at profundity as it seems after reading it as written, that it must appear to be.  Having disclaimed any such intent, I do feel better about it.
