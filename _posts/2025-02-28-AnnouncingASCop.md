@@ -1,6 +1,7 @@
 ---
 title: "Announcing ASCop!"
 date: 2025-02-28
+layout: post
 ---
 
 # ASCop 
