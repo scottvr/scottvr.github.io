@@ -24,9 +24,9 @@ bbbbb<!DOCTYPE html>
         </header>
 	{% set show_random_link = page.show_random_link | default: site.show_random_link | default: false %}
 	{% if show_random_link %}
-	      <section id="ranhdom_link" class="clearfix">
+	      <section id="random_link" class="clearfix">
 		  {% assign random_link = site.pages | random %}
-			<a href="{{ random_link | default: bleh }}"><span>random linkh</span>
+			<a href="{{ random_link }}"><span>random link</span>
 		{% endif %}
 	</section>
 	<section id="downloads" class="clearfix">
