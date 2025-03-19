@@ -1,4 +1,4 @@
-title: "maximizer heavy ind."
+btitle: "maximizer heavy ind."
 author: "scottvr"
 description: "wetware neuronal activations consolidated and temporally-ordered."
 email: "scottvr at paperclipmaximizer"
@@ -20,7 +20,9 @@ plugins:
 collections:
   posts:
     output          : true
-
+  pages:
+    output          : true
+    
 # Handling Reading
 safe                : false
 include             : [".htaccess"]
