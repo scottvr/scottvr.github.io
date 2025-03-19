@@ -1,4 +1,4 @@
-bbbbb<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset='utf-8'>
@@ -22,10 +22,10 @@ bbbbb<!DOCTYPE html>
           <h2>{{ page.title | default: site.title | default: site.github.repository_name }}</h2>
           <h3>{{ page.description | default: site.description | default: site.github.project_tagline }}</h3>
         </header>
-	{% set show_random_link = page.show_random_link | default: site.show_random_link | default: false %}
+	{% assign show_random_link = page.show_random_link | default: site.show_random_link | default: false %}
 	{% if show_random_link %}
-	      <section id="random_link" class="clearfix">
 		  {% assign random_link = site.pages | random %}
+	      <section id="random_link" class="clearfix">
 			<a href="{{ random_link }}"><span>random link</span></a>b
 		{% endif %}
 	</section>
