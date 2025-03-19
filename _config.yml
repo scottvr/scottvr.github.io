@@ -21,7 +21,7 @@ plugins:
 collections:
   posts:
     output          : true
-  pages:
+  wikis:
     output          : true
     
 # Handling Reading
