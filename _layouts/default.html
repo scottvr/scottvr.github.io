@@ -26,7 +26,7 @@
 	{% if show_random_link %}
 		  {% assign random_link = site.wikis | sample %}
 	      <section id="random_link" class="clearfix">
-			<a href="{{ random_link.url }}"><span>random link</span></a>
+			<a href="{{ random_link.url | default:random_link.remote_url | bdefault:page.url }}"><span>random link</span></a>
 		{% endif %}
 	      </section>
 	<section id="downloads" class="clearfix">
