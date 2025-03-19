@@ -1,6 +1,7 @@
 ---
 title: Arthropod ceramic coffin wiki
 layout: wiki
+url: https://blehg.paperclipmaximizer.ai/wikis/Arthropod_ceramic_coffins.html
 ---
 
 <img  src="http://en.wikipedia.org//static/images/icons/wikipedia.png" alt="" height="50" width="50"><img alt="Wikipedia" src="http://en.wikipedia.org//static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="167" height="67">
