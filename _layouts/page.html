@@ -3,6 +3,6 @@ layout: default
 ---
 <div class="page">
 {% for page in site.pages %}
-  {{ page.url }}
+  <a href="{{ page.url }}"><span>{{ page.title }}</span>
 {% endfor %}
 </div>
