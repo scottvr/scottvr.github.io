@@ -5,7 +5,7 @@ layout: post
 ---
 
 ## don't feed the beast?
-Conventional wisdom and best practices tell us not to reply - not even to interact with the "remove me from your list" element - as it only validates our phone number (or email address) as being active and as being likely to read a spam such as the onr you responded to, but in my case that is precisely what I'm hoping for. 
+Conventional wisdom and best practices tell us not to reply to spam - not even to interact with the "remove me from your list" element - as it only validates our phone number (or email address) as being active and as being likely to read a spam such as the onr you responded to, but in my case that is precisely what I'm hoping for. 
 
 hear me out. if my number becomes more valuable because of something I wrote intending to waste the time of the spammer (that turned out btw, I think as a decent piece of satirical sci-fi fwiw) and to amuse myself, then the next spammer had to soend more to get my contact info. And if further the type of spammer that oaid more for my address is this particular sort of soammer, while I now have this reply loady and ready to be copy/pasted to them.  If this happens repeatedly, the cost of spammers for entry into the market has gone up and if they're wasting time trying to understand my reply, they they are doubky disincentivized from participating in that activity.  
 
