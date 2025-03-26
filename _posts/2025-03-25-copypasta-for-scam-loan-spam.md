@@ -1,6 +1,6 @@
 ---
 title: "on the value of a number"
-description: "in which I do my best to waste a spammer's time in hopes it will cause more such soammers to message me so that I can this reply to more of them."
+description: "in which I do my best to waste a spammer's time in hopes it will cause more such spammers to message me so that I can paste this reply to more of them."
 layout: post
 ---
 
