@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Github Projects
 permalink: /projects/
 ---
 
