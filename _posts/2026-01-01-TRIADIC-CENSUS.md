@@ -1,0 +1,62 @@
+---
+date: 2026-01-01
+title: PHART Renders all the triad graphs immaculately in plain text
+---
+
+For this post, I have moved the renderings to the top, so you don't have to look at the code first!  
+So if it reads as if it is out of order, it's because it is. :-)
+
+
+# From Unconnected Nodes to Fully-connected Graph
+
+There is a script in the `examples/` directory to display every possible connectivity combination for a three-node graph.
+
+It's called `triadic_census.py` and it does this:
+
+
+
+## The ASCII Diagrams
+
+And now, what you've been waiting for, the diagrams that PHART outputs with the options you can see in the script itself:
+
+```
+         003                  012                  102                 021D
+     ┌─────┐              ┌─────┐              ┌─────┐              ┌─────┐
+     │  1  │              │  1  │              │  1  │              │  1  │
+     └─────┘              └─────┘              └─────┘              └─────┘
+                         ┌──┘                 ┌─^                  ┌──^
+                         v                    v                    │
+┌─────┐   ┌─────┐    ┌─────┐   ┌─────┐    ┌─────┐   ┌─────┐    ┌─────┐   ┌─────┐
+│  2  │   │  3  │    │  2  │   │  3  │    │  2  │   │  3  │    │  3  │──>│  2  │
+└─────┘   └─────┘    └─────┘   └─────┘    └─────┘   └─────┘    └─────┘   └─────┘
+
+        021U                 021C                 111D                 111U
+     ┌─────┐              ┌─────┐              ┌─────┐              ┌─────┐
+     │  1  │              │  3  │              │  1  │              │  1  │
+     └─────┘              └─────┘              └─────┘              └─────┘
+    ┌──┘                 ┌─┘   ^─┐            ┌─^   ^─┐            ┌─^   └─┐
+    v                    v       │            v       │            v       v
+┌─────┐   ┌─────┐    ┌─────┐   ┌─────┐    ┌─────┐   ┌─────┐    ┌─────┐   ┌─────┐
+│  3  │<──│  2  │    │  2  │   │  1  │    │  2  │   │  3  │    │  2  │   │  3  │
+└─────┘   └─────┘    └─────┘   └─────┘    └─────┘   └─────┘    └─────┘   └─────┘
+
+        030T                 030C                  201                 120D
+     ┌─────┐              ┌─────┐              ┌─────┐              ┌─────┐
+     │  3  │              │  1  │              │  1  │              │  1  │
+     └─────┘              └─────┘              └─────┘              └─────┘
+    ┌─┘   ^─┐            ┌─┘   ^─┐            ┌─^  ^─┐             ┌─^   ^─┐
+    v       │            v       │            v      v             v       │
+┌─────┐   ┌─────┐    ┌─────┐   ┌─────┐    ┌─────┐   ┌─────┐    ┌─────┐   ┌─────┐
+│  2  │<──│  1  │    │  3  │──>│  2  │    │  2  │   │  3  │    │  2  │<──│  3  │
+└─────┘   └─────┘    └─────┘   └─────┘    └─────┘   └─────┘    └─────┘   └─────┘
+
+        120U                 120C                  210                  300
+     ┌─────┐              ┌─────┐              ┌─────┐              ┌─────┐
+     │  1  │              │  1  │              │  2  │              │  1  │
+     └─────┘              └─────┘              └─────┘              └─────┘
+    ┌─^   └─┐            ┌─^   └─┐            ┌─^  ^─┐             ┌─^  ^─┐
+    v       v            v       v            v      v             v      v
+┌─────┐   ┌─────┐    ┌─────┐   ┌─────┐    ┌─────┐   ┌─────┐    ┌─────┐   ┌─────┐
+│  2  │──>│  3  │    │  2  │<──│  3  │    │  1  │──>│  3  │    │  2  │<─>│  3  │
+└─────┘   └─────┘    └─────┘   └─────┘    └─────┘   └─────┘    └─────┘   └─────┘
+```
