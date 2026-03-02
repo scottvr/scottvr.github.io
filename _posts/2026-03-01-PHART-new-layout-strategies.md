@@ -1,6 +1,6 @@
 ---
 date: 2026-03-01
-title: PHART: A Look at the New Layout Strategies
+title: PHART - A Look at the New Layout Strategies
 ---
 
 
