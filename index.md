@@ -1,14 +1,9 @@
----
-layout: home
-list_title: reverse log traversal
-title: ''
----
 
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+# scottvr
+
+
+- https://github.com/scottvr
+- https://scholar.google.com/citations?user=fDaWwugAAAAJ&hl=en
+- https://linkedin.com/in/scottvr
+- https://medium.com/@scott.vr
+
