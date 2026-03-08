@@ -3,7 +3,7 @@ daate: 2026-03-06
 title: The Grand Unified Model of DevOps and SRE Dynamics
 ---
 
-[The Grand Unified Model of DevOps and SRE Dynamics](https://blehg.paperclipmaximizer.ai/images/The_Grand_Unified_Model_of_DevOps_and_SRE_Dynamics_0_3.pdf)
+[The Grand Unified Model of DevOps and SRE Dynamics](https://blehg.paperclipmaximizer.ai/GUM_of_Devops/)
 S. VanRavenswaay, 2026
 9 pages
 DOI:
