@@ -7,7 +7,7 @@ title: FracKing 9000 - Frack the Fracking Fractaloids!
 ## Are you the Frac King?
 ### Frack the Fracking Fractaloids!
 
-It started as a sloppy Asteroids clone, but soon became a ludicrous implementaion of GL shaders (from [KNIFE](https://github.com/scottvr/KNIFE)) replacing the 1980 vector graphics (or raster version of vector graphics you'd get on a modern display), but also intentionally rendered at low arcade CRT resolution with emulated scanlines, chromatic aberration, etc.  (I told you it was ludicrous, but it somehow looks "better" to me this way.) 
+It started as a sloppy Asteroids clone, but soon became a ludicrous implementaion of GL shaders (from [KNIFE](https://github.com/scottvr/KNIFE)) replacing the 1980 vector polygons (or raster version of vector graphics you'd get on a modern display) with fractals, but also intentionally rendered at low arcade CRT resolution with emulated scanlines, chromatic aberration, etc.  (I told you it was ludicrous, but it somehow looks "better" to me this way.) 
 
 All of the fractals are legit calculated and rendered in real time, and the zooming/scaling is actually happening in real-time, though of course it could have just been bitmap sprites serving the same purpose. There is a bonus "fractal explorer mode" where you get a 1980's arcade-style view deep zoom into the fractals as intermission bonuses throughout, though at instantaneous rendering rates that would have been impossible on period-correct hardware.
 
