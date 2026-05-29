@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-title: FrackKing 9000 - Frack the Fracking Fractaloids!
+title: FracKing 9000 - Frack the Fracking Fractaloids!
 ---
 
 #FracKing-9k
